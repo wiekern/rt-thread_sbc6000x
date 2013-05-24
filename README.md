@@ -7,6 +7,6 @@ RT-Thread
 RT-Thread is an open source real-time operating system for embedded devices.
 =======
 ===============================
-Do testing
+This is just for sbc6000x board.
 ===============================
 >>>>>>> bbd94f115df787b8cc942e6f35fa5204eb087dd7
